@@ -1,0 +1,14 @@
+name: AxisRestrict
+main: com.DestroTheGod.AxisRestrict.AxisRestrict
+version: 1.0
+api-version: 1.15
+description: Plugin to restrict movement to an axis. Based on wadzee's https://www.youtube.com/watch?v=SDz8S1Bzxiw
+commands:
+   swap:
+      description: swaps whether to restrict movement to x, y or z (!?) axises
+   fast_movement_checks:
+      description: sets movement check rate to 20 times a second.
+   default_movement_checks:
+      description: sets movement check rate to 5 times a second.
+   slow_movement_checks:
+      description: sets movement check rate to 2 times a second.
