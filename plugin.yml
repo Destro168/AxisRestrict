@@ -5,7 +5,7 @@ api-version: 1.15
 description: Plugin to restrict movement to an axis. Based on wadzee's https://www.youtube.com/watch?v=SDz8S1Bzxiw
 commands:
    swap:
-      description: swaps whether to restrict movement to x, y or z (!?) axises
+      description: swaps whether to restrict movement to x, y or z (!?) axes
    fast_movement_checks:
       description: sets movement check rate to 20 times a second.
    default_movement_checks:
